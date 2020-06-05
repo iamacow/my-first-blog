@@ -12,7 +12,7 @@ pylint = "<2.0.0"
 
 [packages]
 
-django = "==2.0.6"
+django = "==2.2.13"
 
 
 [requires]
